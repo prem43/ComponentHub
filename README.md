@@ -5,19 +5,19 @@ The project focuses on beautiful UI design, smooth animations, and real-world da
 
 ✨ Key Highlights
 
---25+ Login & Signup Designs
+🎨 25+ Login & Signup Designs
 Modern, minimal, animated, futuristic, and advanced authentication UI patterns.
 
---8 Full Dashboard Templates
+📊 8 Full Dashboard Templates
 Admin, analytics, e-commerce, CRM, finance, project management, social media, and user dashboards.
 
---30+ Animated UI Components
+⚡ 30+ Animated UI Components
 Buttons, loaders, skeletons, cards, toasts, progress indicators, accordions, and micro-interactions.
 
-Dark Theme with Vibrant Gradients
+🌓 Dark Theme with Vibrant Gradients
 Carefully designed color system with purple, blue, and neon accents.
 
-Fully Responsive & Production Ready
+📱 Fully Responsive & Production Ready
 Optimized for all screen sizes with clean, reusable component structures.
 
 🛠 Tech Stack
@@ -32,7 +32,7 @@ Tailwind CSS
 
 Lucide Icons & Custom Animations
 
---Purpose
+🎯 Purpose
 
 This project serves as:
 
